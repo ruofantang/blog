@@ -16,8 +16,8 @@
 		"enabled": true
 	},
 	"clockCard": {
-		"width": 232,
-		"height": 132,
+		"width": 283,
+		"height": 103,
 		"offset": 92,
 		"order": 4,
 		"offsetX": null,
